@@ -1,9 +1,23 @@
 body {
-  font-family: sans-serif;
+  background: url("https://lh6.googleusercontent.com/proxy/wT6TID3RtlAt7-D5u61uuRu6vVmVW0dQ8uGjPnC_0Wv2A6jQ7JJkgk_8HiWd9GQmM-VVbRY9gpMGmrLfH3sOBnaw3W3bYoocA5Koh6anNlr7hVwmLQGPls-yAo6jhZvxh-nKQ1FXIZkHcHaL17BOAZVflA=s0-d");
 }
+
+
 
 .App {
   text-align: center;
 }
 
+.explanation {
+  display: flex;
+  color: #fff;
+  width: 1100px;
+  font-size: 19px;
+ 
+}
+
+.image {
+  width: 900px;
+  
+}
 
